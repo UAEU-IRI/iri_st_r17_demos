@@ -1,0 +1,4 @@
+- move to the directory
+- git add --all
+- git commit -m "A Changes Message!"
+- git push origin master
